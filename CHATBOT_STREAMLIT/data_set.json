@@ -1,0 +1,578 @@
+{
+  "image_t1_001.png": {
+    "building": 0.54,
+    "land": 75.7,
+    "road": 14.24,
+    "vegetation": 0.85,
+    "water": 7.12,
+    "unlabeled": 1.54
+  },
+  "image_t1_002.png": {
+    "building": 0.0,
+    "land": 70.81,
+    "road": 8.31,
+    "vegetation": 0.0,
+    "water": 20.44,
+    "unlabeled": 0.44
+  },
+  "image_t1_003.png": {
+    "building": 3.03,
+    "land": 64.12,
+    "road": 14.04,
+    "vegetation": 6.97,
+    "water": 11.49,
+    "unlabeled": 0.35
+  },
+  "image_t1_004.png": {
+    "building": 0.78,
+    "land": 83.72,
+    "road": 12.68,
+    "vegetation": 0.0,
+    "water": 0.16,
+    "unlabeled": 2.66
+  },
+  "image_t1_005.png": {
+    "building": 1.22,
+    "land": 49.65,
+    "road": 10.25,
+    "vegetation": 0.0,
+    "water": 38.86,
+    "unlabeled": 0.02
+  },
+  "image_t1_006.png": {
+    "building": 7.62,
+    "land": 50.07,
+    "road": 16.62,
+    "vegetation": 5.26,
+    "water": 20.27,
+    "unlabeled": 0.15
+  },
+  "image_t1_007.png": {
+    "building": 0.81,
+    "land": 71.66,
+    "road": 10.35,
+    "vegetation": 4.7,
+    "water": 12.45,
+    "unlabeled": 0.03
+  },
+  "image_t1_008.png": {
+    "building": 13.82,
+    "land": 53.84,
+    "road": 15.06,
+    "vegetation": 7.85,
+    "water": 9.2,
+    "unlabeled": 0.23
+  },
+  "image_t1_009.png": {
+    "building": 19.97,
+    "land": 41.68,
+    "road": 13.31,
+    "vegetation": 16.6,
+    "water": 6.08,
+    "unlabeled": 2.38
+  },
+  "image_t2_001.png": {
+    "building": 22.9,
+    "land": 56.06,
+    "road": 21.04,
+    "vegetation": 0.0,
+    "water": 0.0,
+    "unlabeled": 0.0
+  },
+  "image_t2_002.png": {
+    "building": 27.63,
+    "land": 53.47,
+    "road": 18.13,
+    "vegetation": 0.0,
+    "water": 0.0,
+    "unlabeled": 0.77
+  },
+  "image_t2_003.png": {
+    "building": 10.92,
+    "land": 73.58,
+    "road": 13.62,
+    "vegetation": 1.88,
+    "water": 0.0,
+    "unlabeled": 0.0
+  },
+  "image_t2_004.png": {
+    "building": 4.67,
+    "land": 67.44,
+    "road": 8.38,
+    "vegetation": 4.34,
+    "water": 15.17,
+    "unlabeled": 0.0
+  },
+  "image_t2_005.png": {
+    "building": 8.99,
+    "land": 32.35,
+    "road": 12.24,
+    "vegetation": 16.7,
+    "water": 29.71,
+    "unlabeled": 0.0
+  },
+  "image_t2_006.png": {
+    "building": 8.89,
+    "land": 54.94,
+    "road": 14.7,
+    "vegetation": 5.65,
+    "water": 2.77,
+    "unlabeled": 13.05
+  },
+  "image_t2_007.png": {
+    "building": 6.58,
+    "land": 49.82,
+    "road": 12.55,
+    "vegetation": 11.51,
+    "water": 14.91,
+    "unlabeled": 4.64
+  },
+  "image_t2_008.png": {
+    "building": 7.85,
+    "land": 72.8,
+    "road": 5.75,
+    "vegetation": 9.99,
+    "water": 2.71,
+    "unlabeled": 0.91
+  },
+  "image_t2_009.png": {
+    "building": 12.16,
+    "land": 76.51,
+    "road": 7.94,
+    "vegetation": 1.84,
+    "water": 0.05,
+    "unlabeled": 1.5
+  },
+  "image_t3_001.png": {
+    "building": 2.46,
+    "land": 29.62,
+    "road": 1.53,
+    "vegetation": 2.37,
+    "water": 57.48,
+    "unlabeled": 6.54
+  },
+  "image_t3_002.png": {
+    "building": 5.17,
+    "land": 52.31,
+    "road": 8.49,
+    "vegetation": 3.27,
+    "water": 27.57,
+    "unlabeled": 3.19
+  },
+  "image_t3_003.png": {
+    "building": 1.87,
+    "land": 66.85,
+    "road": 6.11,
+    "vegetation": 16.68,
+    "water": 7.04,
+    "unlabeled": 1.45
+  },
+  "image_t3_004.png": {
+    "building": 1.37,
+    "land": 6.89,
+    "road": 1.47,
+    "vegetation": 0.0,
+    "water": 89.49,
+    "unlabeled": 0.79
+  },
+  "image_t3_005.png": {
+    "building": 1.34,
+    "land": 34.25,
+    "road": 3.13,
+    "vegetation": 0.0,
+    "water": 59.19,
+    "unlabeled": 2.09
+  },
+  "image_t3_006.png": {
+    "building": 3.48,
+    "land": 63.16,
+    "road": 20.51,
+    "vegetation": 7.62,
+    "water": 4.47,
+    "unlabeled": 0.76
+  },
+  "image_t3_007.png": {
+    "building": 5.27,
+    "land": 27.17,
+    "road": 5.24,
+    "vegetation": 0.0,
+    "water": 59.61,
+    "unlabeled": 2.71
+  },
+  "image_t3_008.png": {
+    "building": 0.66,
+    "land": 63.39,
+    "road": 13.12,
+    "vegetation": 7.81,
+    "water": 9.63,
+    "unlabeled": 5.39
+  },
+  "image_t3_009.png": {
+    "building": 5.05,
+    "land": 71.13,
+    "road": 7.0,
+    "vegetation": 1.35,
+    "water": 14.84,
+    "unlabeled": 0.63
+  },
+  "image_t4_001.png": {
+    "building": 35.34,
+    "land": 34.01,
+    "road": 22.05,
+    "vegetation": 4.01,
+    "water": 4.59,
+    "unlabeled": 0.0
+  },
+  "image_t4_002.png": {
+    "building": 48.47,
+    "land": 15.8,
+    "road": 11.38,
+    "vegetation": 19.82,
+    "water": 4.55,
+    "unlabeled": 0.0
+  },
+  "image_t4_003.png": {
+    "building": 41.9,
+    "land": 17.39,
+    "road": 3.55,
+    "vegetation": 24.86,
+    "water": 12.3,
+    "unlabeled": 0.0
+  },
+  "image_t4_004.png": {
+    "building": 23.58,
+    "land": 48.92,
+    "road": 12.62,
+    "vegetation": 0.0,
+    "water": 14.88,
+    "unlabeled": 0.0
+  },
+  "image_t4_005.png": {
+    "building": 38.1,
+    "land": 29.67,
+    "road": 9.92,
+    "vegetation": 1.39,
+    "water": 20.92,
+    "unlabeled": 0.0
+  },
+  "image_t4_006.png": {
+    "building": 54.42,
+    "land": 9.8,
+    "road": 12.4,
+    "vegetation": 6.94,
+    "water": 16.44,
+    "unlabeled": 0.0
+  },
+  "image_t4_007.png": {
+    "building": 35.43,
+    "land": 40.55,
+    "road": 21.31,
+    "vegetation": 2.01,
+    "water": 0.71,
+    "unlabeled": 0.0
+  },
+  "image_t4_008.png": {
+    "building": 49.14,
+    "land": 25.95,
+    "road": 12.11,
+    "vegetation": 1.56,
+    "water": 11.24,
+    "unlabeled": 0.0
+  },
+  "image_t4_009.png": {
+    "building": 36.14,
+    "land": 38.22,
+    "road": 13.24,
+    "vegetation": 0.08,
+    "water": 12.32,
+    "unlabeled": 0.0
+  },
+  "image_t5_001.png": {
+    "building": 0.04,
+    "land": 4.65,
+    "road": 3.61,
+    "vegetation": 0.0,
+    "water": 90.5,
+    "unlabeled": 1.19
+  },
+  "image_t5_002.png": {
+    "building": 0.04,
+    "land": 31.3,
+    "road": 1.21,
+    "vegetation": 0.0,
+    "water": 67.23,
+    "unlabeled": 0.22
+  },
+  "image_t5_003.png": {
+    "building": 0.0,
+    "land": 38.77,
+    "road": 1.94,
+    "vegetation": 0.04,
+    "water": 58.91,
+    "unlabeled": 0.33
+  },
+  "image_t5_004.png": {
+    "building": 3.77,
+    "land": 56.43,
+    "road": 5.33,
+    "vegetation": 4.8,
+    "water": 29.66,
+    "unlabeled": 0.01
+  },
+  "image_t5_005.png": {
+    "building": 1.81,
+    "land": 28.69,
+    "road": 7.42,
+    "vegetation": 1.06,
+    "water": 61.02,
+    "unlabeled": 0.0
+  },
+  "image_t5_006.png": {
+    "building": 0.0,
+    "land": 17.88,
+    "road": 0.0,
+    "vegetation": 0.41,
+    "water": 81.68,
+    "unlabeled": 0.02
+  },
+  "image_t5_007.png": {
+    "building": 6.25,
+    "land": 58.92,
+    "road": 5.96,
+    "vegetation": 16.16,
+    "water": 12.48,
+    "unlabeled": 0.24
+  },
+  "image_t5_008.png": {
+    "building": 5.68,
+    "land": 57.14,
+    "road": 12.41,
+    "vegetation": 4.07,
+    "water": 20.64,
+    "unlabeled": 0.05
+  },
+  "image_t5_009.png": {
+    "building": 0.0,
+    "land": 49.19,
+    "road": 0.94,
+    "vegetation": 0.0,
+    "water": 49.78,
+    "unlabeled": 0.09
+  },
+  "image_t6_001.png": {
+    "building": 8.5,
+    "land": 52.15,
+    "road": 5.01,
+    "vegetation": 1.42,
+    "water": 31.35,
+    "unlabeled": 1.56
+  },
+  "image_t6_002.png": {
+    "building": 0.0,
+    "land": 12.47,
+    "road": 0.0,
+    "vegetation": 57.97,
+    "water": 29.55,
+    "unlabeled": 0.01
+  },
+  "image_t6_003.png": {
+    "building": 0.0,
+    "land": 3.1,
+    "road": 0.0,
+    "vegetation": 93.19,
+    "water": 3.71,
+    "unlabeled": 0.0
+  },
+  "image_t6_004.png": {
+    "building": 7.58,
+    "land": 41.41,
+    "road": 1.27,
+    "vegetation": 9.96,
+    "water": 39.78,
+    "unlabeled": 0.0
+  },
+  "image_t6_005.png": {
+    "building": 0.09,
+    "land": 21.03,
+    "road": 0.63,
+    "vegetation": 16.36,
+    "water": 61.89,
+    "unlabeled": 0.0
+  },
+  "image_t6_006.png": {
+    "building": 0.03,
+    "land": 26.11,
+    "road": 0.0,
+    "vegetation": 52.56,
+    "water": 21.3,
+    "unlabeled": 0.0
+  },
+  "image_t6_007.png": {
+    "building": 0.0,
+    "land": 31.21,
+    "road": 0.0,
+    "vegetation": 20.83,
+    "water": 47.48,
+    "unlabeled": 0.48
+  },
+  "image_t6_008.png": {
+    "building": 0.0,
+    "land": 20.33,
+    "road": 0.0,
+    "vegetation": 31.61,
+    "water": 47.46,
+    "unlabeled": 0.6
+  },
+  "image_t6_009.png": {
+    "building": 0.0,
+    "land": 16.86,
+    "road": 0.0,
+    "vegetation": 7.84,
+    "water": 75.3,
+    "unlabeled": 0.0
+  },
+  "image_t7_001.png": {
+    "building": 17.42,
+    "land": 55.29,
+    "road": 22.18,
+    "vegetation": 4.13,
+    "water": 0.97,
+    "unlabeled": 0.0
+  },
+  "image_t7_002.png": {
+    "building": 20.06,
+    "land": 48.27,
+    "road": 14.48,
+    "vegetation": 16.55,
+    "water": 0.64,
+    "unlabeled": 0.0
+  },
+  "image_t7_003.png": {
+    "building": 11.77,
+    "land": 66.16,
+    "road": 11.33,
+    "vegetation": 9.86,
+    "water": 0.82,
+    "unlabeled": 0.07
+  },
+  "image_t7_004.png": {
+    "building": 18.42,
+    "land": 53.14,
+    "road": 10.08,
+    "vegetation": 17.59,
+    "water": 0.77,
+    "unlabeled": 0.0
+  },
+  "image_t7_005.png": {
+    "building": 10.41,
+    "land": 63.65,
+    "road": 7.08,
+    "vegetation": 15.97,
+    "water": 2.81,
+    "unlabeled": 0.09
+  },
+  "image_t7_006.png": {
+    "building": 0.8,
+    "land": 89.99,
+    "road": 9.07,
+    "vegetation": 0.06,
+    "water": 0.09,
+    "unlabeled": 0.0
+  },
+  "image_t7_007.png": {
+    "building": 0.86,
+    "land": 89.0,
+    "road": 5.87,
+    "vegetation": 1.47,
+    "water": 1.64,
+    "unlabeled": 1.15
+  },
+  "image_t7_008.png": {
+    "building": 0.0,
+    "land": 100.0,
+    "road": 0.0,
+    "vegetation": 0.0,
+    "water": 0.0,
+    "unlabeled": 0.0
+  },
+  "image_t7_009.png": {
+    "building": 0.07,
+    "land": 89.95,
+    "road": 3.31,
+    "vegetation": 0.52,
+    "water": 6.15,
+    "unlabeled": 0.0
+  },
+  "image_t8_001.png": {
+    "building": 11.15,
+    "land": 55.05,
+    "road": 6.51,
+    "vegetation": 24.1,
+    "water": 2.95,
+    "unlabeled": 0.23
+  },
+  "image_t8_002.png": {
+    "building": 5.88,
+    "land": 80.34,
+    "road": 8.93,
+    "vegetation": 4.76,
+    "water": 0.08,
+    "unlabeled": 0.0
+  },
+  "image_t8_003.png": {
+    "building": 32.42,
+    "land": 46.14,
+    "road": 11.65,
+    "vegetation": 4.84,
+    "water": 3.29,
+    "unlabeled": 1.66
+  },
+  "image_t8_004.png": {
+    "building": 32.54,
+    "land": 6.07,
+    "road": 9.02,
+    "vegetation": 43.2,
+    "water": 9.16,
+    "unlabeled": 0.0
+  },
+  "image_t8_005.png": {
+    "building": 17.96,
+    "land": 53.54,
+    "road": 9.46,
+    "vegetation": 9.02,
+    "water": 9.22,
+    "unlabeled": 0.8
+  },
+  "image_t8_006.png": {
+    "building": 12.6,
+    "land": 65.22,
+    "road": 14.0,
+    "vegetation": 4.96,
+    "water": 0.14,
+    "unlabeled": 3.08
+  },
+  "image_t8_007.png": {
+    "building": 39.15,
+    "land": 4.34,
+    "road": 9.24,
+    "vegetation": 29.58,
+    "water": 17.17,
+    "unlabeled": 0.52
+  },
+  "image_t8_008.png": {
+    "building": 34.89,
+    "land": 31.31,
+    "road": 17.84,
+    "vegetation": 9.39,
+    "water": 6.56,
+    "unlabeled": 0.0
+  },
+  "image_t8_009.png": {
+    "building": 13.88,
+    "land": 65.45,
+    "road": 17.74,
+    "vegetation": 2.64,
+    "water": 0.15,
+    "unlabeled": 0.13
+  }
+}
